@@ -23,6 +23,9 @@ RatOs: https://github.com/Rat-OS/RatOS-configuration/tree/v2.1.x <br />
 AWD Mod for Voron: https://github.com/aTinyShellScript/v2.4_AWD <br />
 
 # Current progress
+Video of the current state <br />
+https://youtu.be/a9sC6sEBhxI <br />
+
 The entire conversion is functional but, for now, it only works for the Chaoticlab carbon gantry kit. <br />
 But I'm encountering the: MCU "mcu" error: Timer too close <br />
 I'm working on a step-by-step guide using the CAD model and showing the printed parts

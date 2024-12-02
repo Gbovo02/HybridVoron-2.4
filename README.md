@@ -6,10 +6,17 @@ The entire conversion doesn't take any space away from the build plate area, onl
 The cover for the Z belts is to be removed and mounted with the version I modified, on the rear you need to use the STLs named "rear idler mount" and for the front "front motor-idler mount" <br />
 On the X axis, you can re-use the same M5 bolt to secure the spacer needed for the belt holder
 
-# BOM
-* 12 M3 heat inserts (6 for each side) <br />
-* 6 M5 bolts x 35 (3 for each side) <br />
-* 4 M3 x 8 (2 for each side) <br />
+# BOM	
+2	   Nema 17	<br />
+2	   2240 Driver	<br />
+8  	 M3x25mm bolt <br />	
+6  	 M5x40 bolt <br />	
+2  	 M5x30 bolt	Front motor mount (carbon gantry) <br />
+24   F623-2RS bearing	M3 (front and rear piece) <br />
+4	   F695-ZZ bearing	M5 (rear piece) <br />
+2	   M2,5x 25 bolt	belt clamp <br />
+2	   M2,5x 25 nut	belt clamp <br />
+	   GT2x6mm belt	at least 1 meter in total (300mm build) <br />
 
 # Project references
 RatOs: https://github.com/Rat-OS/RatOS-configuration/tree/v2.1.x <br />

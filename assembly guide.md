@@ -18,6 +18,7 @@ The spacer is mounted on the X axis and requires an M2.5x20 screw and an M2.5 nu
 <br />
 Assembly: <br />
 Insert the screw into the hexagon of the dedicated rear clamp. <br />
+<br />
 ![Assembly guide_html_ab56a573](https://github.com/user-attachments/assets/09ae3e71-960b-4719-ad4b-6cfd80df2004) <br />
 <br />
 --- <br />

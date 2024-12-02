@@ -12,8 +12,8 @@ On the X axis, you can re-use the same M5 bolt to secure the spacer needed for t
 * 4 M3 x 8 (2 for each side) <br />
 
 # Project references
-RatOs: https://github.com/Rat-OS/RatOS-configuration/tree/v2.1.x
-AWD Mod for Voron: https://github.com/aTinyShellScript/v2.4_AWD
+RatOs: https://github.com/Rat-OS/RatOS-configuration/tree/v2.1.x <br />
+AWD Mod for Voron: https://github.com/aTinyShellScript/v2.4_AWD <br />
 
 # Current progress
 The entire conversion is functional but, for now, it only works for the Chaoticlab carbon gantry kit. <br />
